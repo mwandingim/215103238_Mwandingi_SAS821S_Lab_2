@@ -1,0 +1,16 @@
+session_id,session_start,user_id,department,source_country,new_device,off_hours,failed_logins_30m,mfa_denials,mfa_approvals,unique_resources,sensitive_resources,denied_accesses,files_read,bytes_downloaded_mb,data_upload_mb,process_risk_score,destination_risk_score,peer_deviation_score,impossible_travel,privilege_mismatch,model_prediction,model_risk_probability,model_rank
+CASE-KYC-01,2026-09-11 18:33:00,mhaingura,Customer Service,ZA,1,1,4,3,1,12,7,2,64,642.2,0.8,79.0,63.0,9.4,1,1,1,0.785,1
+CASE-VPN-01,2026-09-11 18:18:00,mhaingura,Customer Service,ZA,1,1,4,3,1,3,1,2,4,1.4,0.2,61.0,58.0,7.9,1,1,1,0.645,2
+CASE-EXFIL-01,2026-09-12 00:35:00,mhaingura,Customer Service,ZA,1,1,0,0,1,4,4,0,25,815.6,284.3,96.0,98.0,10.0,1,1,1,0.635,3
+S00232,2026-09-13 21:58:00,nambala,Loans,,0,0,0,0,1,4,2,0,11,6.138,0.041,19.66,28.48,5.01,0,1,1,0.615,4
+CASE-EXFIL-02,2026-09-12 00:43:00,mhaingura,Customer Service,ZA,1,1,0,0,1,2,2,0,2,4.2,972.1,95.0,99.0,10.0,1,1,1,0.58,5
+S00072,2026-09-13 17:40:00,ntinda,Marketing,BW,0,0,1,3,1,5,1,1,19,15.293,2.557,7.33,6.66,4.202,1,1,1,0.535,6
+S00278,2026-09-08 08:51:00,katjiuongua,Information Technology,ZA,1,0,2,1,1,4,1,1,9,6.586,0.0,10.13,17.62,2.224,0,0,1,0.53,7
+S00414,2026-09-12 13:42:00,nambala,Loans,ZA,1,1,2,1,1,4,0,0,10,12.783,2.368,12.66,13.6,2.235,0,0,1,0.525,8
+S00049,2026-09-12 00:51:00,murorua,Risk,,0,1,0,1,1,2,1,0,15,31.82,0.0,25.37,12.46,2.568,0,1,0,0.465,9
+S00290,2026-09-08 05:54:00,nnakale,Customer Service,,1,0,0,1,1,3,0,0,10,2.295,0.017,24.38,3.31,5.431,0,0,0,0.465,10
+S00195,2026-09-12 11:39:00,mhaingura,Customer Service,ZA,0,0,2,1,1,4,0,0,12,5.565,1.285,33.19,35.87,4.791,0,0,0,0.455,11
+S00233,2026-09-09 05:32:00,tkamati,Customer Service,,0,0,2,1,1,2,1,0,17,16.965,1.035,8.79,14.25,4.77,0,0,0,0.45,12
+S00427,2026-09-12 23:21:00,sihuhua,Customer Service,BW,0,0,4,0,1,5,0,0,17,9.783,2.354,45.94,39.68,7.637,0,0,0,0.445,13
+S00093,2026-09-10 12:40:00,shilongo,Loans,,0,0,2,0,1,4,2,2,23,21.621,0.0,1.62,19.21,3.618,0,1,0,0.445,14
+S00223,2026-09-10 01:37:00,haufiku,Information Technology,,0,0,1,1,1,3,0,0,11,2.96,0.0,9.13,19.52,5.764,0,0,0,0.43,15

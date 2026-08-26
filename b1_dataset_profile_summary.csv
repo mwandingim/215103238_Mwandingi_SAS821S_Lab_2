@@ -1,0 +1,13 @@
+dataset,rows,columns,missing_values,duplicate_events
+ofs_access_policy_matrix - Copy,9,5,0,0
+ofs_access_policy_matrix,9,5,0,0
+ofs_access_session_investigation,450,21,415,0
+ofs_access_session_training,3000,22,2699,0
+ofs_asset_inventory,16,7,0,0
+ofs_email_gateway_logs,433,13,425,0
+ofs_employee_directory,24,11,0,0
+ofs_endpoint_process_logs,568,11,0,0
+ofs_file_access_logs,1114,11,0,0
+ofs_proxy_dlp_logs,477,12,473,0
+ofs_threat_intelligence,27,10,0,0
+ofs_vpn_authentication_logs,317,10,311,0
